@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrivnak&hide=css,less,javascript,html,scss&exclude_repo=mrivnak.github.io,mirrorpad,qmk_firmware,dotfiles,github-dracula-theme)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mrivnak/mrivnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
