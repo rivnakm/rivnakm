@@ -28,6 +28,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mrivnak&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrivnak&=&layout=compact&exclude_repo=mrivnak.github.io,codecamp,dotfiles&hide=css,html&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrivnak&=&layout=compact&exclude_repo=mrivnak.github.io,codecamp,dotfiles,gameboy&hide=css,html&langs_count=8)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
