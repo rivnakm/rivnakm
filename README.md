@@ -1,6 +1,8 @@
-### Hi there 👋
+# Michael Rivnak
 
-I'm Mike Rivnak, a Backend Developer and Linux Systems Admin, and a recent graduate of Wentworth Institute of Technology with a degree in Computer Science. Fundamentally, I'm always looking for ways to innovate and improve my work, whether it be through refining my workflow or learning a new technology.
+## Hi there 👋
+
+I'm Michael Rivnak, a Backend Developer and Linux Systems Admin, and a recent graduate of Wentworth Institute of Technology with a degree in Computer Science. Fundamentally, I'm always looking for ways to innovate and improve my work, whether it be through refining my workflow or learning a new technology. In my previous role at Ascend Learning I Introduced new technologies which have been invaluable to the team, as well creating libaries and applications to support operations. During my time there I made sure to be a valuable asset to the team, by trying to bring my own unique knowedge to meetings, writing well documented code, and always doing research to make sure I'm familiar with anything that is required of me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rivnak/)](https://www.linkedin.com/in/michael-rivnak/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-forestgreen?style=for-the-badge&logo=gnubash&logoColor=white&link=https://mrivnak.github.io/)](https://mrivnak.github.io/)
