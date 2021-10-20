@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a developer blah blah 
-TODO: Write something here
+I'm Mike Rivnak, a Backend Developer and Linux Systems Admin, and a recent graduate of Wentworth Institute of Technology with a degree in Computer Science. Fundamentally, I'm always looking for ways to innovate and improve my work, whether it be through refining my workflow or learning a new technology.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rivnak/)](https://www.linkedin.com/in/michael-rivnak/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-forestgreen?style=for-the-badge&logo=gnubash&logoColor=white&link=https://mrivnak.github.io/)](https://mrivnak.github.io/)
