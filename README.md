@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Michael Rivnak, a Backend Developer and Linux Systems Admin, Graduate of Wentworth Institute of Technology, and Software Engineer at FactSet Research Systems
+I'm Michael Rivnak, a Software Engineer at FactSet Research Systems, Graduate of Wentworth Institute of Technology, and a hobbyist Linux sysadmin.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rivnak/)](https://www.linkedin.com/in/michael-rivnak/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-forestgreen?style=for-the-badge&logo=gnubash&logoColor=white&link=https://mrivnak.github.io/)](https://mrivnak.github.io/)
