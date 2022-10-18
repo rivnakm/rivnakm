@@ -3,7 +3,7 @@
 I'm Mike Rivnak, a Software Engineer at FactSet Research Systems, Graduate of Wentworth Institute of Technology, and a hobbyist Linux sysadmin.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rivnak/)](https://www.linkedin.com/in/michael-rivnak/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-forestgreen?style=for-the-badge&logo=gnubash&logoColor=white&link=https://mrivnak.github.io/)](https://mrivnak.github.io/)
+<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-forestgreen?style=for-the-badge&logo=gnubash&logoColor=white&link=https://mrivnak.github.io/)](https://mrivnak.github.io/) -->
 
 ## Technologies_
 
@@ -24,9 +24,11 @@ I'm Mike Rivnak, a Software Engineer at FactSet Research Systems, Graduate of We
 ### Frameworks_
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
