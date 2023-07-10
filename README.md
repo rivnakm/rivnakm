@@ -27,7 +27,8 @@ I'm Mike Rivnak, a Software Engineer at FactSet Research Systems, Graduate of We
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Bevy Engine](https://img.shields.io/badge/Bevy-%23FFFFFF.svg?style=for-the-badge&logo=Rust&logoColor=black)
+![Leptos](https://img.shields.io/badge/leptos-FF0135?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Tools_
 
