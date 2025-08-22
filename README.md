@@ -5,6 +5,10 @@ I'm Mike Rivnak, a Software Engineer at FactSet Research Systems, Graduate of We
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rivnak/)](https://www.linkedin.com/in/michael-rivnak/)
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-forestgreen?style=for-the-badge&logo=gnubash&logoColor=white&link=https://mrivnak.github.io/)](https://mrivnak.github.io/) -->
 
+## Update 🚨
+
+I've moved most of my main projects over to [Codeberg](https://codeberg.org/rivnakm) 🧊🏔️
+
 ## Technologies_
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
